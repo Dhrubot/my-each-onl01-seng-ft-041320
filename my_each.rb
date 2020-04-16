@@ -1,9 +1,11 @@
-def my_each # put argument(s) here
+def my_each(array) # put argument(s) here
   # code here
   if block_given?
     
-  else
     
+    
+  else
+    puts "No block has been given."
   end
   array
 end
