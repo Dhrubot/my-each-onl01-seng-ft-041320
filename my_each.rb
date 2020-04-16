@@ -10,7 +10,7 @@ def my_each(array) # put argument(s) here
       
     end
   else
-    puts "No block has been given."
+    "No block has been given."
   end
   
   array
